@@ -7,6 +7,7 @@ golang server at backend to bypass CORS
 
 
 /> curl http://localhost:94/anything
+```
 {
   "args": {},
   "data": "",
@@ -23,3 +24,4 @@ golang server at backend to bypass CORS
   "origin": "4.1.2.3",
   "url": "http://httpbin.org/anything"
 }
+```
