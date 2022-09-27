@@ -1,0 +1,5 @@
+{
+	"ServerURL": "https://httpbin.org",
+	"Host": "httpbin.org",
+	"ListenPort": ":94"
+}
